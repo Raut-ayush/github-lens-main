@@ -88,11 +88,11 @@ uvicorn server:app --reload
 ```
 
 ##⭐ Support
-<div>
-If you find this project interesting, consider starring ⭐ the repository!
-This project is currently under active development.
-PRs are allowed only for improvements — not redistribution.
-Clone, explore, modify locally — but do not republish or rehost.
-</div>
 
-<div align="center"> Made with ⚡ by Ayush Raut </div>```
+-If you find this project interesting, consider starring ⭐ the repository!
+-This project is currently under active development.
+-PRs are allowed only for improvements — not redistribution.
+-Clone, explore, modify locally — but do not republish or rehost.
+
+
+<div align="center"> Made with ⚡ by Ayush Raut </div>
