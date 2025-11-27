@@ -1,73 +1,81 @@
-# Welcome to your Lovable project
+<!-- PROJECT HEADER -->
+<div align="center">
 
-## Project info
+# ⚡ GitHub Lens — Intelligent Developer Profiling  
+### AI-Powered Insights • Repository Intelligence • Skill Mapping • Real-Time Analysis
 
-**URL**: https://lovable.dev/projects/f2eb1614-096d-4212-a09f-382d18e7b9f0
+<img src="https://img.shields.io/badge/AI%20Driven-Yes-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Frontend-Vite%20%2B%20React-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-FastAPI-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ML%20Models-Custom-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 
-## How can I edit this code?
+</div>
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🔍 What is GitHub Lens?
+**GitHub Lens** is an AI-powered analytics platform that takes a GitHub username and transforms their profile into an interactive, intelligent, beautifully-presented analysis dashboard.  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f2eb1614-096d-4212-a09f-382d18e7b9f0) and start prompting.
+It performs:
+- 🧠 **Machine-learning–powered expertise evaluation**
+- 🏗 **Repo-level intelligence extraction**
+- ⚙️ **Tech-stack + skill inference**
+- 📈 **Activity, patterns, and timeline analytics**
+- 🔮 **Career-oriented predictions**
+- ⚡ **Real-time compute with background non-blocking architecture**
 
-Changes made via Lovable will be committed automatically to this repo.
+All processed through:
+- A high-performance FastAPI backend  
+- A custom ML inference pipeline  
+- A fully responsive Vite + React + Tailwind + ShadCN frontend
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🚀 Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🔬 **Deep GitHub Intelligence**
+- Repository activity analysis  
+- Commit frequency mapping  
+- Tech-stack extraction  
+- Stars / forks / contributions indexed  
 
-Follow these steps:
+### 🧠 **Custom ML Predictions**
+Trained on a handcrafted labelled dataset:
+- **Expertise Level** (Beginner → Expert)
+- **Domain Classification** (Frontend / Backend / ML / DevOps / Low-Level / Full-Stack)
+- **Developer Ranking Score**
+- **Skill Recommendations (50-Dim Vector)**
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### ⚡ Performance Architecture
+- Non-blocking background worker (async)
+- Real-time polling with graceful fallbacks
+- Caching supported for instant re-analysis
+- Clean JSON pipelines for reliability
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 🎮 *Optional Fun Mode*
+A small **Fruit-Slice Mini-Game** appears during long analysis jobs, keeping the user engaged while data loads.
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+## 🏗️ Tech Stack
+
+| Layer | Technology |
+|------|------------|
+| Frontend | Vite • React • TypeScript • Tailwind • ShadCN |
+| Backend | FastAPI • Uvicorn • Python 3.10 |
+| ML Engine | Scikit-Learn • Joblib • Custom Models |
+| Storage | Local cache + dynamic outputs |
+| UI Charts | Recharts • Custom SVG Visualizations |
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/github-lens
+cd github-lens
+Frontend
+cd frontend
+npm install
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f2eb1614-096d-4212-a09f-382d18e7b9f0) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
