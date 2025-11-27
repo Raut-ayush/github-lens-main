@@ -1,0 +1,59 @@
+# --------------------------------------------
+# PYTHON BACKEND (FastAPI)
+# --------------------------------------------
+# Virtual environments
+venv/
+backend/venv/
+
+# Python cache
+__pycache__/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Backend generated outputs
+backend/outputs/
+backend/.cache/
+*.pkl
+
+# Environment variables
+.env
+backend/.env
+.env.*
+
+# --------------------------------------------
+# FRONTEND (Vite + React)
+# --------------------------------------------
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# --------------------------------------------
+# Logs
+logs/
+*.log
+*.out
+*.err
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --------------------------------------------
+# Editors / OS
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# --------------------------------------------
+# Windows / temporary
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
