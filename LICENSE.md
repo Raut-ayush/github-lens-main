@@ -9,7 +9,6 @@ Permission is hereby granted to any individual or organization to:
 
 The following actions are **strictly prohibited** without explicit written permission:
 - Copying or redistributing this codebase.
-- Forking this repository publicly.
 - Publishing any derivative works, modified versions, or replicas.
 - Re-uploading, re-hosting, or mirroring the project.
 - Using the code or machine learning models for commercial purposes.
